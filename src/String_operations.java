@@ -7,5 +7,4 @@ public class String_operations
         System.out.println(s1 instanceof Object);//Instanceof returns boolean
 
     }
-
 }
