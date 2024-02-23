@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 public class Increment
 {
     public static void main(String[] args)
@@ -5,7 +7,7 @@ public class Increment
         int a=10;
         System.out.println(a++);//Print and increment
         int b=20;
-        System.out.println(++b);//Increment and print
+        System.out.println(++b);//BasicPrograms.Increment and print
 
     }
 

@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 public class String_operations
 {
     public static void main(String[] args)

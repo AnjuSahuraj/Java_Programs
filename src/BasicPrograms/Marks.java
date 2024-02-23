@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 public class Marks
 {
     void grade(float m)

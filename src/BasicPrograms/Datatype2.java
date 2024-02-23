@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 public class Datatype2
 {
     public static void main(String[] args)

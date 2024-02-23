@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 import java.util.Scanner;
 
 public class Triangle
@@ -11,15 +13,15 @@ public class Triangle
         float f3=s.nextFloat();
         if(f1==f2 && f2==f3)
         {
-            System.out.println("Triangle is equilateral");
+            System.out.println("BasicPrograms.Triangle is equilateral");
         }
         else if(f1==f2 && f2!=f3)
         {
-            System.out.println("Triangle is isosceles");
+            System.out.println("BasicPrograms.Triangle is isosceles");
         }
         else
         {
-            System.out.println("Triangle is scalene");
+            System.out.println("BasicPrograms.Triangle is scalene");
         }
     }
 }

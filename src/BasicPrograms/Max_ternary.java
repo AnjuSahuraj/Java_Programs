@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 public class Max_ternary
 {
     public static void main(String[] args)
