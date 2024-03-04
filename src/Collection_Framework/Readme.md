@@ -20,3 +20,6 @@ java.util.Set;
 -->**Hashset** is a class which implements set.
 -->Set will store only unique values.
 -->Stored not in a particular order.
+
+-->**LinkedHashSet** -->Keeps the order
+-->**Treeset**-->Elements are in sorted order
